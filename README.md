@@ -1,7 +1,8 @@
 # Data-visualization- By Ford Data 
 
 ## Data overview 
-The data has been downloade from https://s3.amazonaws.com/baywheels-data/index.html. It has 519700 trip with different features to give us better insight in how to read data.
+The data has been downloade from https://s3.amazonaws.com/baywheels-data/index.html. 
+- It has 519700 trip with different features to give us better insight in how to read data.
 
 ## project finding : 
  - Univariate exploration: Number of trip always high during the week and Moring and afternoot time. However its slightly decrease when winter comes on. 
